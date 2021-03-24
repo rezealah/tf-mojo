@@ -2,10 +2,6 @@
 
 Deploys ECS and all supporting resources.
 
-
-
-```bash
-pip install foobar
 ```
 
 ## Usage
