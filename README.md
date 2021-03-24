@@ -2,7 +2,6 @@
 
 Deploys ECS and all supporting resources.
 
-```
 
 ## Usage
 
