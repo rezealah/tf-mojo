@@ -1,7 +1,25 @@
-# AWS ECS Cluster
+# Deploy Node App Terraform
 
-usage:
+Deploys ECS and all supporting resources.
 
+
+
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
 tf init
 tf plan
 tf apply
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
